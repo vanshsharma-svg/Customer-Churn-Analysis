@@ -61,6 +61,7 @@ It covers the complete analytics process, including **data cleaning, feature eng
 - ARPU
 - CLTV
 - Average Tenure
+- Escalation Rate
 
 ---
 
@@ -77,11 +78,29 @@ It covers the complete analytics process, including **data cleaning, feature eng
 
 ## 💡 Key Insights
 
-- Calculated overall customer churn rate.
-- Identified plan types with higher churn.
-- Analyzed churn across different states.
-- Measured revenue at risk from churn.
-- Categorized customers into Low, Mid, and High churn risk.
+ Insights
+
+• Churn Rate: 28.6% | Retention Rate: 71.4%
+
+• Most of the churn is from the Basic subscription plan, with limited overall revenue impact.
+
+• Highest churn occurred in September 2024, and Karnataka recorded the highest churn.
+
+• Average Tenure: 1,451 Days | ARPU: ₹18.8
+
+• Total Revenue: ₹395
+
+• Revenue at Risk: ₹74 | CLTV Lost: ₹2,047
+
+• Revenue Loss: 18%
+
+• Monthly vs Annual Churn: 55.6% vs 8.3%
+
+• Escalation Rate: 19.05%
+
+• Correlation between Escalations and Churn: 0.62 (Moderate Positive Correlation)
+
+• A positive correlation was observed between customer escalations and churn, indicating that customers with more escalations are more likely to churn.
 
 ---
 
